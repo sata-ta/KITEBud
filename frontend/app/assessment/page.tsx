@@ -412,7 +412,7 @@ export default function AssessmentPage() {
 
       storeSessionId(result.session_id);
 
-      router.push("/recommendations");
+      router.push("/results");
     } catch (err) {
       console.error(err);
 
