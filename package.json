@@ -1,0 +1,10 @@
+{
+  "name": "kitebud",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm --prefix frontend run dev\" \"cd backend && ./dev.sh\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+} 

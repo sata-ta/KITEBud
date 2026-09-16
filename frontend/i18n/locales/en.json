@@ -1,0 +1,236 @@
+{
+  "common": {
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "signIn": "Sign In",
+    "comingSoon": "Coming soon",
+    "addToShortlist": "Add to Shortlist",
+    "shortlisted": "Shortlisted",
+    "remove": "Remove",
+    "viewUniversity": "View University",
+    "exploreMajor": "Explore Major",
+    "and": "and",
+    "gotIt": "Got it"
+  },
+  "nav": {
+    "explore": "Explore",
+    "universities": "Universities",
+    "majors": "Majors",
+    "scholarships": "Scholarships",
+    "findMajor": "Find My Major",
+    "shortlist": "Shortlist"
+  },
+  "landing": {
+    "badge": "Built for Cambodian Grade 12 students",
+    "headline": "Not sure what to study?",
+    "subheadline": "KITEBud helps you discover the right major and university based on your interests, strengths, career goals, and budget.",
+    "ctaPrimary": "Find My Major",
+    "ctaSecondary": "Explore Universities",
+    "pathTitle": "Your path with KITEBud",
+    "pathYou": "You",
+    "pathYouSub": "Interests, strengths, goals, budget",
+    "pathAssessment": "Assessment",
+    "pathAssessmentSub": "5 step about you",
+    "pathMajor": "Major",
+    "pathMajorSub": "Your best-fit major, explained",
+    "pathUniversity": "University",
+    "pathUniversitySub": "Matched to your budget & city",
+    "pathCareer": "Career",
+    "pathCareerSub": "A clear path forward",
+    "howItWorksTitle": "How it works",
+    "step1Title": "Tell us about yourself",
+    "step1Desc": "Answer 16 questions about your interests, strengths, and goals.",
+    "step2Title": "Discover your best-fit majors",
+    "step2Desc": "See your top 3 majors with clear reasons why each one fits you.",
+    "step3Title": "Find universities that match you",
+    "step3Desc": "Compare Cambodian universities by tuition, location, and scholarships.",
+    "step4Title": "Get your action plan",
+    "step4Desc": "A simple checklist to turn your decision into next steps.",
+    "whyTitle": "Why KITEBud?",
+    "why1Title": "Personalized recommendations",
+    "why1Desc": "Matches based on who you are, not just what universities advertise.",
+    "why2Title": "Cambodian university information",
+    "why2Desc": "Real Cambodian institutions, majors, and admission requirements.",
+    "why3Title": "Tuition & scholarship info",
+    "why3Desc": "See estimated costs and available scholarships up front.",
+    "why4Title": "Career pathway guidance",
+    "why4Desc": "Know what jobs and skills come after each major.",
+    "why5Title": "Student-specific matching",
+    "why5Desc": "Budget and location matching tailored to your situation.",
+    "why6Title": "A plan, not just a list",
+    "why6Desc": "Turn your decision into concrete next steps.",
+    "finalCtaTitle": "Ready to find your path?",
+    "finalCtaDesc": "It takes about 2 minutes and gives you a clear, explained recommendation — free.",
+    "finalCtaButton": "Start Your Assessment"
+  },
+  "assessment": {
+    "step1Title": "What subjects or activities do you enjoy?",
+    "step1Subtitle": "Choose as many as you like.",
+    "step2Title": "What are you good at?",
+    "step2Subtitle": "Choose as many as you like.",
+    "step3Title": "What type of career interests you?",
+    "step3Subtitle": "Pick the one that excites you most.",
+    "step4Title": "How much can you spend on tuition per year?",
+    "step4Subtitle": "A rough estimate is fine — you can adjust later.",
+    "step5Title": "Where would you prefer to study?",
+    "step5Subtitle": "Pick the city that works best for you.",
+    "continue": "Continue",
+    "showResults": "Show My Results",
+    "stepLabel": "Step {{step}} of {{total}}",
+    "percentComplete": "{{percent}}% complete",
+    "options": {
+      "interests": {
+        "mathematics": "Mathematics",
+        "science": "Science",
+        "technology": "Technology",
+        "business": "Business",
+        "arts_design": "Arts & Design",
+        "languages": "Languages",
+        "social_sciences": "Social Sciences",
+        "helping_people": "Helping People"
+      },
+      "strengths": {
+        "problem_solving": "Problem solving",
+        "communication": "Communication",
+        "creativity": "Creativity",
+        "mathematics": "Mathematics",
+        "leadership": "Leadership",
+        "writing": "Writing",
+        "technology": "Technology",
+        "working_with_people": "Working with people"
+      },
+      "careers": {
+        "technology": "Technology",
+        "business": "Business",
+        "finance": "Finance",
+        "healthcare": "Healthcare",
+        "engineering": "Engineering",
+        "education": "Education",
+        "design": "Design",
+        "government_social": "Government / Social work"
+      },
+      "budget": {
+        "lt1000": "Under $1,000",
+        "1000_2000": "$1,000–$2,000",
+        "2000_4000": "$2,000–$4,000",
+        "4000_plus": "$4,000+"
+      },
+      "location": {
+        "phnom_penh": "Phnom Penh",
+        "siem_reap": "Siem Reap",
+        "battambang": "Battambang",
+        "anywhere": "Anywhere in Cambodia"
+      }
+    }
+  },
+  "reasons": {
+    "interest": "You selected {{items}} as interests",
+    "strength": "Your strengths include {{items}}",
+    "career": "You're interested in {{career}} careers",
+    "budget": "It fits your tuition budget range",
+    "fallback": "It's a broad option worth exploring based on your overall profile"
+  },
+  "results": {
+    "title": "Your KITEBud Results",
+    "subtitle": "Based on your interests, strengths, career goals, budget, and preferred location.",
+    "topMajorsTitle": "Your Top 3 Majors",
+    "whyMatches": "Why it matches you",
+    "possibleCareers": "Possible careers",
+    "readyTitle": "Ready to see where to study?",
+    "readyDesc": "We'll match universities to your top major, budget, and city.",
+    "findUniversities": "Find Universities For Me"
+  },
+  "majorDetail": {
+    "backToResults": "Back to results",
+    "whatIs": "What is {{name}}?",
+    "whyFit": "Why it may fit you",
+    "skills": "Skills you will learn",
+    "careers": "Possible careers",
+    "duration": "Typical study duration",
+    "pathway": "Career pathway",
+    "recommendedUniversities": "Recommended universities",
+    "seeUniversities": "See Matching Universities",
+    "grade12": "Grade 12"
+  },
+  "universities": {
+    "title": "Universities That Match You",
+    "subtitle": "Based on your recommended major ({{major}}), budget, and preferred location.",
+    "offers": "Offers {{major}}",
+    "tuition": "Tuition",
+    "scholarship": "Scholarship",
+    "estimatedCost": "Estimated cost {{amount}}/yr — {{status}}",
+    "fitsBudget": "Fits your budget",
+    "aboveBudget": "Above your budget",
+    "upTo": "Up to {{percent}}%",
+    "perYear": "/yr"
+  },
+  "universityDetail": {
+    "backToUniversities": "Back to universities",
+    "whyMatches": "Why this university matches you",
+    "offersRecommended": "Offers your recommended major ({{major}})",
+    "fitsBudgetAfterScholarship": "Fits your budget after scholarships",
+    "locationMatch": "Located in your preferred city",
+    "scholarshipAvailable": "Scholarships available (up to {{percent}}%)",
+    "availableMajors": "Available majors",
+    "tuitionAndScholarships": "Tuition & scholarships",
+    "estimatedCost": "Estimated cost",
+    "scholarshipsHere": "Scholarships offered here",
+    "noScholarships": "No specific scholarships listed for this university yet.",
+    "admissionRequirements": "Admission requirements",
+    "contactInformation": "Contact information",
+    "viewApplicationInfo": "View Application Information"
+  },
+  "shortlist": {
+    "title": "My Shortlisted Universities",
+    "subtitle": "Compare tuition, scholarships, and affordability side by side.",
+    "empty": "No universities shortlisted yet",
+    "emptyDesc": "Save universities you're interested in so you can compare them side by side.",
+    "exploreButton": "Explore Universities",
+    "colUniversity": "University",
+    "colMajor": "Major",
+    "colTuition": "Tuition",
+    "colScholarship": "Scholarship",
+    "colLocation": "Location",
+    "colAffordability": "Affordability",
+    "goToActionPlan": "Go to My Action Plan"
+  },
+  "actionPlan": {
+    "title": "My Action Plan",
+    "subtitle": "Turn your recommendation into real next steps.",
+    "progressLabel": "Your progress",
+    "progressCount": "{{completed}} of {{total}} completed",
+    "allDone": "Great work — you've completed every step. You're ready to apply!",
+    "items": {
+      "decide": "Decide between {{major1}} and {{major2}}",
+      "shortlist3": "Shortlist 3 universities ({{count}}/3 saved)",
+      "scholarships": "Check scholarship requirements for your shortlisted universities",
+      "certificate": "Prepare your Grade 12 certificate",
+      "idDocuments": "Prepare your identification documents (ID card / passport)",
+      "submit": "Submit your university application"
+    }
+  },
+  "explore": {
+    "title": "Explore",
+    "subtitle": "Browse universities, majors, and scholarships. For a personalized match, take the assessment.",
+    "searchPlaceholder": "Search {{tab}}...",
+    "noResults": "No {{tab}} found. Try a different search term.",
+    "tabUniversities": "Universities",
+    "tabMajors": "Majors",
+    "tabScholarships": "Scholarships",
+    "deadline": "Deadline"
+  },
+  "signIn": {
+    "title": "Sign in — coming soon",
+    "desc": "Accounts aren't needed to try this MVP. Your results stay in this session so you can explore freely.",
+    "backHome": "Back to Home"
+  },
+  "premium": {
+    "title": "Premium feature — coming soon",
+    "desc": "Detailed comparison reports, advanced budget matching, and full career pathways will be part of KITEBud Premium. This MVP is free to explore in full."
+  },
+  "errors": {
+    "incompleteAssessment": "Please complete the assessment first.",
+    "notFound": "We couldn't find that page."
+  }
+}
